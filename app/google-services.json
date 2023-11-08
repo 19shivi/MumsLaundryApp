@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622221348099",
+    "project_id": "mums-laundry-app",
+    "storage_bucket": "mums-laundry-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622221348099:android:28f7862addf118cd946d36",
+        "android_client_info": {
+          "package_name": "com.actionapps23.MumsLaundryApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGOcfPxq9F-d46AdSAO4sHCcqW2lvc7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622221348099:android:12adbf04229ab870946d36",
+        "android_client_info": {
+          "package_name": "com.example.mumslaundryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGOcfPxq9F-d46AdSAO4sHCcqW2lvc7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
